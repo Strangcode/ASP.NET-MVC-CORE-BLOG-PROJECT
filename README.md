@@ -1,2 +1,2 @@
 # ASP.NET-MVC-CORE-BLOG-PROJECT
-Stranger 
+AUthor name is = Stranger 
