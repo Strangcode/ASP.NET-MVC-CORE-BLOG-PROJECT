@@ -1,1 +1,2 @@
 # ASP.NET-MVC-CORE-BLOG-PROJECT
+Stranger 
